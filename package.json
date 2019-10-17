@@ -1,6 +1,6 @@
 {
   "name": "@ngard/tiny-partial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal-weight lodash.partial similar utility",
   "main": "index.js",
   "scripts": {
@@ -22,13 +22,11 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "uglify-es": "^3.3.9"
+    "uglify-es": "^3.3.9",
+    "sinon": "^7.5.0"
   },
   "bugs": {
     "url": "https://github.com/NickGard/tiny-partial/issues"
   },
-  "homepage": "https://github.com/NickGard/tiny-partial#readme",
-  "dependencies": {
-    "sinon": "^7.5.0"
-  }
+  "homepage": "https://github.com/NickGard/tiny-partial#readme"
 }
